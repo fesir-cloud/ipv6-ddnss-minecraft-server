@@ -18,3 +18,20 @@ https://fritz.box   :)
 Online-Portscanner:
 https://www.subnetonline.com/pages/ipv6-network-tools/online-ipv6-port-scanner.php
 http://www.ipv6scanner.com/cgi-bin/main.py
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+# Update der IP/URL Zuordnung:
+
+    IP / URL Upate :
+    Syntax ( User & PWD & Host ggf ersetzen !!! ) :
+    http://www.ddnss.de/upd.php?user=USER&pwd=PASS&host=HOST1,HOST2
+    oder: https://www.ddnss.de/upd.php?user=USER&pwd=PASS&host=HOST1,HOST2
+
+
+( https://www.ddnss.de/ua/help.php )
